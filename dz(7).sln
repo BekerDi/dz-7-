@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz(7)", "dz(7)\dz(7).csproj", "{78198B49-A624-4BE1-89CA-5E33A8A7BD2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tumakov2110", "tumakov2110\tumakov2110.csproj", "{4B54B744-9424-4BD2-9DC1-F16BB49FCE78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78198B49-A624-4BE1-89CA-5E33A8A7BD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78198B49-A624-4BE1-89CA-5E33A8A7BD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78198B49-A624-4BE1-89CA-5E33A8A7BD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78198B49-A624-4BE1-89CA-5E33A8A7BD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B54B744-9424-4BD2-9DC1-F16BB49FCE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B54B744-9424-4BD2-9DC1-F16BB49FCE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B54B744-9424-4BD2-9DC1-F16BB49FCE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B54B744-9424-4BD2-9DC1-F16BB49FCE78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7812A52-70CD-493E-B19A-29DD9022E696}
+	EndGlobalSection
+EndGlobal
